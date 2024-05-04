@@ -14,7 +14,7 @@ cd ambvir\Script\activated.bat
 
 4. Install dependencies
 ```
-pip instal flask, flask-restful, flask-sqlalchemy
+pip install flask, flask-restful, flask-sqlalchemy
 ```
 
 5. Create database
