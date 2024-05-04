@@ -1,5 +1,5 @@
-# api-rest-python
-Code example of api reat in python using flask, flask-restful and flask-sqlalchemy
+# API REST Python
+Code example of api rest in python using flask, flask-restful and flask-sqlalchemy
 
 1. Clone git repository:
 ```
