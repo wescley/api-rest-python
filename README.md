@@ -17,7 +17,12 @@ cd ambvir\Script\activated.bat
 pip instal flask, flask-restful, flask-sqlalchemy
 ```
 
-5. Run application
+5. Create database
+```
+python sql_alchemyp.py
+```
+
+6. Run application
 ```
 python app.py
 ```
